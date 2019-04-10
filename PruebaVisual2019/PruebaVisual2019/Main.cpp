@@ -8,7 +8,9 @@ int main() {
 
 	p1->setId("1");
 	p1->setNombre("Jefferson");
+	p1->setNombre("Jefferson Hernandez");
 	p2->setId("3");
+	p2->setNombre("Bryan");
 	p2->setNombre("Bryan");
 
 	list->agregarPersona(p1);
